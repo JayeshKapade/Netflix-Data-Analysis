@@ -18,7 +18,7 @@ Analyze Netflix dataset to understand content trends, types, and growth.
   * Movies vs TV Shows
   * Top countries
   * Year-wise growth
-
+    
 ## 📊 Key Insights
 
 * Movies are more than TV Shows
@@ -29,6 +29,7 @@ Analyze Netflix dataset to understand content trends, types, and growth.
 
 Netflix Movies and TV Shows dataset (Kaggle)
 
-##💠 Conclusion
+## 🔚 Conclusion
 
-Basic EDA helped understand content distribution and trends.
+Basic exploratory data analysis helped in understanding content distribution, trends, and growth of Netflix over time.
+
