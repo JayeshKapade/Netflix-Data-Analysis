@@ -1,30 +1,34 @@
-# 🎬 Netflix Data Analysis
+# Netflix Data Analysis (EDA)
 
-## 📌 Objective
+## 📌 Project Objective
 
-Analyze Netflix dataset to understand content trends and growth.
+Analyze Netflix dataset to understand content trends, types, and growth.
 
 ## 🛠 Tools Used
 
 * Python (Pandas, Matplotlib)
 * Google Colab
 
-## 🔍 Steps
+## 🔍 Steps Performed
 
-* Data cleaning (handled missing values)
-* Converted date column
+* Data Cleaning (handled missing values, removed duplicates)
+* Converted date column to datetime
 * Analyzed:
 
   * Movies vs TV Shows
   * Top countries
-  * Year-wise trends
+  * Year-wise growth
 
-## 📊 Insights
+## 📊 Key Insights
 
-* More movies than TV shows
-* Most content from USA
+* Movies are more than TV Shows
+* Most content is from USA
 * Content increased over time
 
 ## 📁 Dataset
 
-Netflix dataset from Kaggle
+Netflix Movies and TV Shows dataset (Kaggle)
+
+##💠 Conclusion
+
+Basic EDA helped understand content distribution and trends.
